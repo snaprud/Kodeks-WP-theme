@@ -1,3 +1,3 @@
-<h1>Kodeks WordPress theme</h1>
+# Kodeks WordPress theme #
 
-<p>Dette er hovedmalen for WordPress-installasjoner for Kodeks</p>
+Dette er hovedmalen for WordPress-installasjoner for Kodeks
